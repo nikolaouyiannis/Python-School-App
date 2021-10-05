@@ -1,4 +1,4 @@
-# python-school-app
+# Python-School-App
 This is Python project for PeopleCert Education Coding Bootcamp, employing object oriented programming.
 
 It is a shell application that asks the user to input data for the following entities: Students, Trainers, Assignments, Courses.
