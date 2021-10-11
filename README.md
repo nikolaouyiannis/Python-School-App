@@ -1,5 +1,10 @@
 # Python-School-App
-This is Python project for PeopleCert Education Coding Bootcamp, employing object oriented programming.
+This Python project was built for my training in PeopleCert Education Coding Bootcamp., employing object oriented programming.
+
+My purpose was to create a fully functional python app, that tackles all the necessary functionalities that a school needs. Although
+the app is accessible through the shell, it is really user friendly and concrete. All the possible user inputs have been taken into account in order to prevent errors and there appropriate messages to direct the user in each case.
+
+This project really made me understand how OOP works. In addition techinques like DRY and modularization have been used in order to make it as efficient as possible. 
 
 It is a shell application that asks the user to input data for the following entities: Students, Trainers, Assignments, Courses.
 If the user decides not to type any data, the program should use dummy data.
